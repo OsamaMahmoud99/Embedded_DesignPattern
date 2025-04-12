@@ -1,0 +1,7 @@
+../Src/device.c:22:11:createDevice	16
+../Src/device.c:53:6:turnOnDevice	1
+../Src/device.c:65:6:turnOffDevice	1
+../Src/device.c:74:6:toggleDevice	1
+../Src/device.c:82:9:readDevice	2
+../Src/device.c:101:6:destroyDevice	1
+../Src/device.c:107:6:displayDeviceInfo	2
