@@ -1,0 +1,4 @@
+../Src/TimeSource.c:17:6:timer2_sec_set	3
+../Src/TimeSource.c:45:6:timer2_sec_reset	1
+../Src/TimeSource.c:50:6:systick_millis_set	3
+../Src/TimeSource.c:69:6:systick_millis_reset	1
