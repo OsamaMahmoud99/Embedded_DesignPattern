@@ -1,0 +1,3 @@
+../Src/DigitalStopWatch.c:24:21:createWatch	2
+../Src/DigitalStopWatch.c:41:6:startWatch	5
+../Src/DigitalStopWatch.c:67:6:stopWatch	5
