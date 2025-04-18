@@ -1,0 +1,2 @@
+../Src/StartedState.c:11:13:stopWatch	1
+../Src/StartedState.c:16:6:transitionToStarted	1

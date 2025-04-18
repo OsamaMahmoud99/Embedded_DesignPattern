@@ -1,0 +1,3 @@
+../Src/WatchState.c:10:13:defaultStop	16	static
+../Src/WatchState.c:15:13:defaultStart	16	static
+../Src/WatchState.c:20:6:defaultImplementation	16	static

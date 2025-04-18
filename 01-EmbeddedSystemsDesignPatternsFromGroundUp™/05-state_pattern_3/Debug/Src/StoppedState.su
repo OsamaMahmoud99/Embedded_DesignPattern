@@ -1,0 +1,2 @@
+../Src/StoppedState.c:12:13:startWatch	16	static
+../Src/StoppedState.c:17:6:transitionToStopped	16	static

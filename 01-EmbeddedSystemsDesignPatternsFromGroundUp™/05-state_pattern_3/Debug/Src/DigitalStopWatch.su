@@ -1,0 +1,4 @@
+../Src/DigitalStopWatch.c:20:21:createWatch	24	static
+../Src/DigitalStopWatch.c:39:6:stopWatch	16	static
+../Src/DigitalStopWatch.c:55:6:startWatch	24	static
+../Src/DigitalStopWatch.c:71:6:destroyWatch	16	static
