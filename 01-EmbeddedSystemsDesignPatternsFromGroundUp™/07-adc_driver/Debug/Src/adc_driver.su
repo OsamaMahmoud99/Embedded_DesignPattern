@@ -1,0 +1,2 @@
+../Src/adc_driver.c:5:6:pa1_analog_init	4	static
+../Src/adc_driver.c:22:10:pa1_analog_read	4	static
