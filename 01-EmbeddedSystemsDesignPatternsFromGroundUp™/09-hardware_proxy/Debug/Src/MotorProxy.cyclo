@@ -1,0 +1,15 @@
+../Src/MotorProxy.c:15:6:MotorProxy_Initialize	2
+../Src/MotorProxy.c:38:13:_MotorProxy_Init	1
+../Src/MotorProxy.c:44:6:MotorProxy_CleanUp	1
+../Src/MotorProxy.c:49:14:MotorProxy_Create	2
+../Src/MotorProxy.c:59:6:MotorProxy_Destroy	2
+../Src/MotorProxy.c:67:6:Motorproxy_enable	2
+../Src/MotorProxy.c:78:6:MotorProxy_disable	2
+../Src/MotorProxy.c:88:6:MotorProxy_configure	1
+../Src/MotorProxy.c:97:15:MotorProxy_accessMotorDirection	2
+../Src/MotorProxy.c:108:10:MotorProxy_accessMotorSpeed	2
+../Src/MotorProxy.c:119:10:MotorProxy_accessMotorState	2
+../Src/MotorProxy.c:130:6:MotorProxy_writeMotorSpeed	3
+../Src/MotorProxy.c:160:6:MotorProxy_clearErrorStatus	2
+../Src/MotorProxy.c:169:17:marshal	13
+../Src/MotorProxy.c:223:18:unmarshal	3
