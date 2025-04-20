@@ -1,0 +1,2 @@
+../Src/gpio_driver.c:4:6:p1_button_init	1
+../Src/gpio_driver.c:14:6:get_p13_button_state	1
