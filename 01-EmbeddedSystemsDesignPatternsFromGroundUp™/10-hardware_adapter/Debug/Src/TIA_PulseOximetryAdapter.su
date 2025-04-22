@@ -1,0 +1,6 @@
+../Src/TIA_PulseOximetryAdapter.c:13:28:TIA_PulseOximetryAdapter_Create	16	static
+../Src/TIA_PulseOximetryAdapter.c:28:6:TIA_PulseOximetryAdapter_Destroy	16	static
+../Src/TIA_PulseOximetryAdapter.c:34:6:TIA_PulseOximetryAdapter_Cleanup	16	static
+../Src/TIA_PulseOximetryAdapter.c:40:6:TIA_PulseOximetryAdapter_Init	16	static
+../Src/TIA_PulseOximetryAdapter.c:50:9:TIA_PulseOximetryAdapter_readSpo2	40	static
+../Src/TIA_PulseOximetryAdapter.c:68:9:TIA_PulseOximetryAdapter_readPulse	40	static

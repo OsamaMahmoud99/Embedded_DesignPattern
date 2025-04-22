@@ -1,0 +1,6 @@
+../Src/TIA_PulseOximetryAdapter.c:13:28:TIA_PulseOximetryAdapter_Create	2
+../Src/TIA_PulseOximetryAdapter.c:28:6:TIA_PulseOximetryAdapter_Destroy	1
+../Src/TIA_PulseOximetryAdapter.c:34:6:TIA_PulseOximetryAdapter_Cleanup	1
+../Src/TIA_PulseOximetryAdapter.c:40:6:TIA_PulseOximetryAdapter_Init	2
+../Src/TIA_PulseOximetryAdapter.c:50:9:TIA_PulseOximetryAdapter_readSpo2	2
+../Src/TIA_PulseOximetryAdapter.c:68:9:TIA_PulseOximetryAdapter_readPulse	1

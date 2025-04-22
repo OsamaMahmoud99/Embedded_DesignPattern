@@ -1,0 +1,6 @@
+../Src/LTF_PulseOximetryAdapter.c:13:28:LTF_PulseOximetryAdapter_Create	16	static
+../Src/LTF_PulseOximetryAdapter.c:27:6:LTF_PulseOximetryAdapter_Destroy	16	static
+../Src/LTF_PulseOximetryAdapter.c:33:6:LTF_PulseOximetryAdapter_Cleanup	16	static
+../Src/LTF_PulseOximetryAdapter.c:39:6:LTF_PulseOximetryAdapter_Init	16	static
+../Src/LTF_PulseOximetryAdapter.c:49:9:LTF_PulseOximetryAdapter_readSpo2	24	static
+../Src/LTF_PulseOximetryAdapter.c:59:9:LTF_PulseOximetryAdapter_readPulse	24	static

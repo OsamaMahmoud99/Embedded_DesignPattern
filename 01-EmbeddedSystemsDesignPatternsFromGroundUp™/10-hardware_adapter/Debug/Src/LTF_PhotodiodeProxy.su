@@ -1,0 +1,2 @@
+../Src/LTF_PhotodiodeProxy.c:11:10:accessSpo2	8	static
+../Src/LTF_PhotodiodeProxy.c:18:10:accessPulse	8	static

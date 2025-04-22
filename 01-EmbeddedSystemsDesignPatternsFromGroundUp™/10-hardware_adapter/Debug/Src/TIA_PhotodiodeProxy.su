@@ -1,0 +1,2 @@
+../Src/TIA_PhotodiodeProxy.c:11:10:getSpo2	8	static
+../Src/TIA_PhotodiodeProxy.c:18:10:getPulse	8	static
