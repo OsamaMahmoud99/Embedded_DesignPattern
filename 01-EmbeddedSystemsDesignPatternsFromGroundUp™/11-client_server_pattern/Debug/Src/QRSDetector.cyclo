@@ -1,0 +1,6 @@
+../Src/QRSDetector.c:14:6:QRSDetector_Init	1
+../Src/QRSDetector.c:21:15:QRSDetector_Create	2
+../Src/QRSDetector.c:31:6:QRSDetector_computeHeartRate	1
+../Src/QRSDetector.c:40:6:QRSDetector_getDataSample	1
+../Src/QRSDetector.c:47:6:QRSDetector_setItsTMDQueue	1
+../Src/QRSDetector.c:52:6:QRSDetector_Destroy	1

@@ -1,0 +1,8 @@
+../Src/ECG_Module.c:14:6:ECG_Module_Init	16	static
+../Src/ECG_Module.c:20:14:ECG_Module_Create	16	static
+../Src/ECG_Module.c:31:6:ECG_Module_acquireValue	24	static
+../Src/ECG_Module.c:41:6:ECG_Module_setLeadPair	24	static
+../Src/ECG_Module.c:47:19:ECG_Module_getsItsTMDQueue	16	static
+../Src/ECG_Module.c:51:6:ECG_Module_setItsTMDQueue	16	static
+../Src/ECG_Module.c:56:6:ECG_Module_Cleanup	16	static
+../Src/ECG_Module.c:61:6:ECG_Module_Destroy	16	static

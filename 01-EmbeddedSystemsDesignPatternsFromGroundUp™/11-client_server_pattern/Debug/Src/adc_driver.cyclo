@@ -1,0 +1,4 @@
+../Src/adc_driver.c:5:6:pa1_analog_init	1
+../Src/adc_driver.c:22:10:pa1_analog_read	2
+../Src/adc_driver.c:38:6:temp_sensor_init	1
+../Src/adc_driver.c:63:8:read_chip_temperature	2

@@ -1,0 +1,8 @@
+../Src/ECG_Module.c:14:6:ECG_Module_Init	1
+../Src/ECG_Module.c:20:14:ECG_Module_Create	2
+../Src/ECG_Module.c:31:6:ECG_Module_acquireValue	1
+../Src/ECG_Module.c:41:6:ECG_Module_setLeadPair	1
+../Src/ECG_Module.c:47:19:ECG_Module_getsItsTMDQueue	1
+../Src/ECG_Module.c:51:6:ECG_Module_setItsTMDQueue	1
+../Src/ECG_Module.c:56:6:ECG_Module_Cleanup	1
+../Src/ECG_Module.c:61:6:ECG_Module_Destroy	2

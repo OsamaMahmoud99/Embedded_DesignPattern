@@ -1,0 +1,6 @@
+../Src/HistogramDisplay.c:14:6:HistogramDisplay_Init	1
+../Src/HistogramDisplay.c:19:20:HistogramDisplay_Create	2
+../Src/HistogramDisplay.c:29:6:HistogramDisplay_getValue	1
+../Src/HistogramDisplay.c:39:6:HistogramDisplay_updateHistogram	1
+../Src/HistogramDisplay.c:47:6:HistogramDisplay_setItsTMDQueue	1
+../Src/HistogramDisplay.c:53:6:HistogramDisplay_Destroy	2

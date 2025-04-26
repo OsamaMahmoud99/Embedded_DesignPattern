@@ -1,0 +1,7 @@
+../Src/SystemManager.c:13:6:SystemManager_Init	1
+../Src/SystemManager.c:27:17:SystemManager_Create	2
+../Src/SystemManager.c:40:27:SystemManager_getItsHistogramDisplay	1
+../Src/SystemManager.c:46:28:SystemManager_getItsArrythmiaDetector	1
+../Src/SystemManager.c:52:22:SystemManager_getItsQRSDetector	1
+../Src/SystemManager.c:58:19:SystemManager_getItsTMDQueue	1
+../Src/SystemManager.c:64:6:SystemManager_Destroy	1

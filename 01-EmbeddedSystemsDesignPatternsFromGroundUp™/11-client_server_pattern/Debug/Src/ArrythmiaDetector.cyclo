@@ -1,0 +1,6 @@
+../Src/ArrythmiaDetector.c:14:6:ArrythmiaDetector_Init	1
+../Src/ArrythmiaDetector.c:21:22:ArrythmiaDetector_Create	2
+../Src/ArrythmiaDetector.c:31:6:ArrythmiaDetector_Identify	1
+../Src/ArrythmiaDetector.c:37:6:ArrythmiaDetector_getDataSample	1
+../Src/ArrythmiaDetector.c:44:6:ArrythmiaDetector_setItsTMDQueue	1
+../Src/ArrythmiaDetector.c:50:6:ArrythmiaDetector_Destroy	1
