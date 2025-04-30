@@ -1,0 +1,6 @@
+../Src/env_display_client.c:13:6:display_client_init	16	static
+../Src/env_display_client.c:16:20:display_client_create	16	static
+../Src/env_display_client.c:29:6:display_client_handle_new_data	32	static
+../Src/env_display_client.c:43:6:display_client_subscribe	24	static
+../Src/env_display_client.c:72:6:display_client_unsubscribe	24	static
+../Src/env_display_client.c:87:6:display_client_destroy	16	static

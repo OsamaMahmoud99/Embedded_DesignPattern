@@ -1,0 +1,6 @@
+../Src/env_sensor.c:13:6:env_sensor_init	24	static
+../Src/env_sensor.c:20:16:env_sensor_create	16	static
+../Src/env_sensor.c:27:6:env_sensor_get_data	16	static
+../Src/env_sensor.c:38:6:env_sensor_notify	32	static
+../Src/env_sensor.c:48:6:env_sensor_dumplist	24	static
+../Src/env_sensor.c:62:6:env_sensor_destroy	16	static
