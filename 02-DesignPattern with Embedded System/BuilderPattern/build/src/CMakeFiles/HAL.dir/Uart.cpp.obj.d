@@ -1,0 +1,23 @@
+src/CMakeFiles/HAL.dir/Uart.cpp.obj: \
+ G:/OSAMAA/EmbeddedSystem/17-Embedded_CPP/DesignPattern_CPP/YouTube/Design-Pattern-main/BuilderPattern/src/Uart.cpp \
+ G:/OSAMAA/EmbeddedSystem/17-Embedded_CPP/DesignPattern_CPP/YouTube/Design-Pattern-main/BuilderPattern/includes/Uart.hpp \
+ G:/OSAMAA/EmbeddedSystem/17-Embedded_CPP/DesignPattern_CPP/YouTube/Design-Pattern-main/BuilderPattern/includes/Utils.hpp \
+ G:/OSAMAA/EmbeddedSystem/17-Embedded_CPP/DesignPattern_CPP/YouTube/Design-Pattern-main/BuilderPattern/includes/STD_Types.hpp \
+ C:/msys64/mingw64/avr/include/avr/io.h \
+ C:/msys64/mingw64/avr/include/avr/sfr_defs.h \
+ C:/msys64/mingw64/avr/include/inttypes.h \
+ C:/msys64/mingw64/lib/gcc/avr/14.2.0/include/stdint.h \
+ C:/msys64/mingw64/avr/include/stdint.h \
+ C:/msys64/mingw64/avr/include/avr/iom32.h \
+ C:/msys64/mingw64/avr/include/avr/portpins.h \
+ C:/msys64/mingw64/avr/include/avr/common.h \
+ C:/msys64/mingw64/avr/include/avr/version.h \
+ C:/msys64/mingw64/avr/include/avr/fuse.h \
+ C:/msys64/mingw64/avr/include/avr/lock.h \
+ C:/msys64/mingw64/avr/include/avr/interrupt.h \
+ C:/msys64/mingw64/avr/include/string.h \
+ C:/msys64/mingw64/lib/gcc/avr/14.2.0/include/stddef.h \
+ G:/OSAMAA/EmbeddedSystem/17-Embedded_CPP/DesignPattern_CPP/YouTube/Design-Pattern-main/BuilderPattern/includes/Ifram.hpp \
+ C:/msys64/mingw64/avr/include/util/delay.h \
+ C:/msys64/mingw64/avr/include/util/delay_basic.h \
+ C:/msys64/mingw64/avr/include/math.h

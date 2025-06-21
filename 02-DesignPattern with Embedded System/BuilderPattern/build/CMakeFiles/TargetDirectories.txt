@@ -1,0 +1,6 @@
+G:/OSAMAA/EmbeddedSystem/17-Embedded_CPP/DesignPattern_CPP/YouTube/Design-Pattern-main/BuilderPattern/build/CMakeFiles/BuilderPattern.elf.dir
+G:/OSAMAA/EmbeddedSystem/17-Embedded_CPP/DesignPattern_CPP/YouTube/Design-Pattern-main/BuilderPattern/build/CMakeFiles/edit_cache.dir
+G:/OSAMAA/EmbeddedSystem/17-Embedded_CPP/DesignPattern_CPP/YouTube/Design-Pattern-main/BuilderPattern/build/CMakeFiles/rebuild_cache.dir
+G:/OSAMAA/EmbeddedSystem/17-Embedded_CPP/DesignPattern_CPP/YouTube/Design-Pattern-main/BuilderPattern/build/src/CMakeFiles/HAL.dir
+G:/OSAMAA/EmbeddedSystem/17-Embedded_CPP/DesignPattern_CPP/YouTube/Design-Pattern-main/BuilderPattern/build/src/CMakeFiles/edit_cache.dir
+G:/OSAMAA/EmbeddedSystem/17-Embedded_CPP/DesignPattern_CPP/YouTube/Design-Pattern-main/BuilderPattern/build/src/CMakeFiles/rebuild_cache.dir

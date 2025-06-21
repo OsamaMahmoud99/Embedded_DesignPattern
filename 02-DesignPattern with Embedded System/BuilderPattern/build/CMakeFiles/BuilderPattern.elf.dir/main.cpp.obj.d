@@ -1,0 +1,26 @@
+CMakeFiles/BuilderPattern.elf.dir/main.cpp.obj: \
+ G:/OSAMAA/EmbeddedSystem/17-Embedded_CPP/DesignPattern_CPP/YouTube/Design-Pattern-main/BuilderPattern/main.cpp \
+ C:/msys64/mingw64/avr/include/avr/io.h \
+ C:/msys64/mingw64/avr/include/avr/sfr_defs.h \
+ C:/msys64/mingw64/avr/include/inttypes.h \
+ C:/msys64/mingw64/lib/gcc/avr/14.2.0/include/stdint.h \
+ C:/msys64/mingw64/avr/include/stdint.h \
+ C:/msys64/mingw64/avr/include/avr/iom32.h \
+ C:/msys64/mingw64/avr/include/avr/portpins.h \
+ C:/msys64/mingw64/avr/include/avr/common.h \
+ C:/msys64/mingw64/avr/include/avr/version.h \
+ C:/msys64/mingw64/avr/include/avr/fuse.h \
+ C:/msys64/mingw64/avr/include/avr/lock.h \
+ G:/OSAMAA/EmbeddedSystem/17-Embedded_CPP/DesignPattern_CPP/YouTube/Design-Pattern-main/BuilderPattern/includes/STD_Types.hpp \
+ G:/OSAMAA/EmbeddedSystem/17-Embedded_CPP/DesignPattern_CPP/YouTube/Design-Pattern-main/BuilderPattern/includes/Button.hpp \
+ G:/OSAMAA/EmbeddedSystem/17-Embedded_CPP/DesignPattern_CPP/YouTube/Design-Pattern-main/BuilderPattern/includes/Utils.hpp \
+ G:/OSAMAA/EmbeddedSystem/17-Embedded_CPP/DesignPattern_CPP/YouTube/Design-Pattern-main/BuilderPattern/includes/Led.hpp \
+ G:/OSAMAA/EmbeddedSystem/17-Embedded_CPP/DesignPattern_CPP/YouTube/Design-Pattern-main/BuilderPattern/includes/Uart.hpp \
+ G:/OSAMAA/EmbeddedSystem/17-Embedded_CPP/DesignPattern_CPP/YouTube/Design-Pattern-main/BuilderPattern/includes/Utils.hpp \
+ G:/OSAMAA/EmbeddedSystem/17-Embedded_CPP/DesignPattern_CPP/YouTube/Design-Pattern-main/BuilderPattern/includes/STD_Types.hpp \
+ C:/msys64/mingw64/avr/include/avr/interrupt.h \
+ C:/msys64/mingw64/avr/include/string.h \
+ C:/msys64/mingw64/lib/gcc/avr/14.2.0/include/stddef.h \
+ G:/OSAMAA/EmbeddedSystem/17-Embedded_CPP/DesignPattern_CPP/YouTube/Design-Pattern-main/BuilderPattern/includes/Ifram.hpp \
+ G:/OSAMAA/EmbeddedSystem/17-Embedded_CPP/DesignPattern_CPP/YouTube/Design-Pattern-main/BuilderPattern/includes/builder.hpp \
+ G:/OSAMAA/EmbeddedSystem/17-Embedded_CPP/DesignPattern_CPP/YouTube/Design-Pattern-main/BuilderPattern/includes/Uart.hpp
