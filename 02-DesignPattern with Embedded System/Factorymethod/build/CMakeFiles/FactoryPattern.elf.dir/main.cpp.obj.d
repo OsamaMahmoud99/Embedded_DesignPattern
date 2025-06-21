@@ -1,0 +1,23 @@
+CMakeFiles/FactoryPattern.elf.dir/main.cpp.obj: \
+ G:/OSAMAA/EmbeddedSystem/17-Embedded_CPP/DesignPattern_CPP/YouTube/Design-Pattern-main/Factorymethod/main.cpp \
+ C:/msys64/mingw64/avr/include/avr/io.h \
+ C:/msys64/mingw64/avr/include/avr/sfr_defs.h \
+ C:/msys64/mingw64/avr/include/inttypes.h \
+ C:/msys64/mingw64/lib/gcc/avr/14.2.0/include/stdint.h \
+ C:/msys64/mingw64/avr/include/stdint.h \
+ C:/msys64/mingw64/avr/include/avr/iom32.h \
+ C:/msys64/mingw64/avr/include/avr/portpins.h \
+ C:/msys64/mingw64/avr/include/avr/common.h \
+ C:/msys64/mingw64/avr/include/avr/version.h \
+ C:/msys64/mingw64/avr/include/avr/fuse.h \
+ C:/msys64/mingw64/avr/include/avr/lock.h \
+ C:/msys64/mingw64/avr/include/util/delay.h \
+ C:/msys64/mingw64/avr/include/util/delay_basic.h \
+ C:/msys64/mingw64/avr/include/math.h \
+ G:/OSAMAA/EmbeddedSystem/17-Embedded_CPP/DesignPattern_CPP/YouTube/Design-Pattern-main/Factorymethod/includes/STD_Types.hpp \
+ G:/OSAMAA/EmbeddedSystem/17-Embedded_CPP/DesignPattern_CPP/YouTube/Design-Pattern-main/Factorymethod/includes/Button.hpp \
+ G:/OSAMAA/EmbeddedSystem/17-Embedded_CPP/DesignPattern_CPP/YouTube/Design-Pattern-main/Factorymethod/includes/Utils.hpp \
+ G:/OSAMAA/EmbeddedSystem/17-Embedded_CPP/DesignPattern_CPP/YouTube/Design-Pattern-main/Factorymethod/includes/Buzzer.hpp \
+ G:/OSAMAA/EmbeddedSystem/17-Embedded_CPP/DesignPattern_CPP/YouTube/Design-Pattern-main/Factorymethod/includes/Ioutput.hpp \
+ G:/OSAMAA/EmbeddedSystem/17-Embedded_CPP/DesignPattern_CPP/YouTube/Design-Pattern-main/Factorymethod/includes/Led.hpp \
+ G:/OSAMAA/EmbeddedSystem/17-Embedded_CPP/DesignPattern_CPP/YouTube/Design-Pattern-main/Factorymethod/includes/OutputFactory.hpp
